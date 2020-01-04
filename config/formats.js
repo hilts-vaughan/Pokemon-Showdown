@@ -748,13 +748,8 @@ let Formats = [
 
 		mod: 'gen8',
 		team: 'randomHC',
-<<<<<<< HEAD
 		ruleset: ['Obtainable Formes', 'HP Percentage Mod', 'Cancel Mod'],
-	},	
-=======
-		ruleset: ['Obtainable', 'HP Percentage Mod', 'Cancel Mod'],
 	},
->>>>>>> Removed whitespace
 	{
 		name: "[Gen 7] Doubles Hackmons Cup",
 
